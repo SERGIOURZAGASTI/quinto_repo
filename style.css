@@ -42,12 +42,18 @@ h1, li{color: green;
   
     display: flex;
     flex-direction: row;
-    justify-content: center; /* Ajusta el centrado horizontal de las opciones */
-    align-items: center; /* Ajusta el centrado vertical de las opciones */
+    justify-content: center; /* centrado horizontal de las opciones */
+    align-items: center; /* centrado vertical de opciones */
   
 }
 
 
+.container{
+  background-color: #5ea8c5;
+  
+}
+
+.m
 
 
 table tr:nth-child(1) {
